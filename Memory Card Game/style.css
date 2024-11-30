@@ -1,0 +1,20 @@
+.pageContainer {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+ 
+
+}
+
+.gameGrid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 1500px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.gameGrid img{
+    width: 150px;
+    height: 150px;
+}
